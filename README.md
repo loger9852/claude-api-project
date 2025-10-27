@@ -1,7 +1,8 @@
 # Claude AI-API ( Unofficial )
 This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
 
-<img src="https://github.com/KoushikNavuluri/Claude-API/assets/103725723/385fa539-e725-4c20-86ff-0864e6ffab82" width="400">
+<img src="https://github.com/loger9852/claude-api-project/assets/253813495-355971e3-f46c-47fc-a3cf-008bb55bb4c6.png‎
+" width="400">
 
 
 
