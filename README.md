@@ -70,7 +70,7 @@ Import the claude_api module in your Python script:
 
 * (Checkout below image for the format of cookie ,It is Better to Use from network tab to grab cookie easily )
 
-   ![Screenshot (8)](https://github.com/KoushikNavuluri/Claude-API/assets/103725723/355971e3-f46c-47fc-a3cf-008bb55bb4c6)
+   ![Screenshot (8)](https://github.com/loger9852/claude-api-project/blob/main/assets/253813495-355971e3-f46c-47fc-a3cf-008bb55bb4c6.png)
 
 
       cookie = os.environ.get('cookie')
