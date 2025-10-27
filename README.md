@@ -56,7 +56,7 @@ or
 
 Clone the repository:
 
-    git clone https://github.com/KoushikNavuluri/Claude-API.git
+    git clone https://github.com/loger9852/claude-api-project.git
 
 ## Usage
 
